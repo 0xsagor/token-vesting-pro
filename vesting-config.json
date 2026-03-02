@@ -1,0 +1,7 @@
+{
+  "beneficiary": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+  "start_delay_seconds": 0,
+  "cliff_duration_seconds": 15780000,
+  "vesting_duration_seconds": 63120000,
+  "token_address": "0x..."
+}
